@@ -1,0 +1,20 @@
+.clock h2{
+  font-size: 60px;
+}
+.hours p { font-size: 18px;
+
+}
+.clock{
+  margin-left:100px;
+}
+.but{
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+}
+.but button{
+  width: 80px;
+  height: 30px;
+  background-color: antiquewhite;
+
+}
